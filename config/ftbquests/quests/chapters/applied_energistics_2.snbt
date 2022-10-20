@@ -42,13 +42,13 @@
 			shape: "hexagon"
 			subtitle: "Virtual Storage System"
 			description: [
-				"&lWelcome to &bApplied Energistics 2&f!"
+				"&lBem vindo ao &bApplied Energistics 2&f!"
 				""
-				"Applied Energistics 2 (or &oAE2&r for short) is an incredibly versatile &bdigital storage&f mod, allowing for extremely efficient storage and all sorts of automation capabilities to greatly augment your modded Minecraft experience from as early as you want to the very endgame."
+				"Applied Energistics 2 (ou &oAE2&r para abreviar) é um mod incrível e versátil de &barmazenamento digital&f, permitindo um armazenamento extremamente eficiente e todos os tipos de automação para melhorar muito a sua experiência no seu modpack de Minecraft e te trazer o mais cedo possível para perto do final do jogo."
 				""
-				"To get started with AE2, you will need to mine an important resource for the mod known as &bCertus Quartz&f. Its ore most frequently drops Certus Quartz &eDust&f, but you may be able to find a &eCrystal&f from it every once in a while."
+				"Para começar com o AE2, você precisa minerar um recurso muito importante, conhecido como &bCertus Quartz&f. Seu minério dropa mais frequentemente &ePó&f de Certus Quartz, mas você será capaz de achar um &eCrystal&f de cada minério por um tempo."
 				""
-				"For more information on AE2 beyond this chapter, consult the wiki over at &o&bappliedenergistics.github.io&f&r."
+				"Para mais informações obre o AE2 além desse capítulo, consulte a wiki em &o&bappliedenergistics.github.io&f&r."
 			]
 			size: 1.5d
 			id: "2893F483C10293E6"
@@ -109,11 +109,11 @@
 			y: 0.5d
 			subtitle: "Some basic machines"
 			description: [
-				"Two of the very first things you will need to get started in AE2 are the &bCharger&f and the &bInscriber&f."
+				"Duas coisas que você precisará para começar no AE2 são o &bCharger&f e o &bInscriber&f."
 				""
-				"The &bCharger&f, when supplied with power, will take &eCertus Quartz Crystals&r and charge them. These &eCharged Certus Crystals&r can then be used in the production of &eFluix&f, another important resource in the mod. It can also be used to charge any item that stores power."
+				"O &bCharger&f, quando conectado na energia, vai pegar os &eCertus Quartz Crystals&r e carrega-los. Esses &eCharged Certus Crystals&r Podem ser usados para a produção de &eFluix&f, outro recurso importante no mod. Também pode ser usado para carregar qualquer item que tenha bateria."
 				""
-				"The &bInscriber&f can be used to turn the various quartz crystals in AE2 into their dust form, but more importantly is used to fabricate special &ePrinted Circuits&f and &eProcessors&f, as will become clearer in the next quest."
+				"O &bInscriber&f pode ser usado para transformar vários quartz crystals do AE2 em pó, mas, mais importante, é usado para fabricar os &ePrinted Circuits&f e os &eProcessors&f, como ficará mais claro na próxima quest."
 			]
 			dependencies: ["2893F483C10293E6"]
 			id: "68B0B3DAF1145191"
@@ -148,7 +148,7 @@
 			x: -6.0d
 			y: 0.5d
 			subtitle: "\"COMIC #42: shearching 4 bobby [Fischer]\""
-			description: ["In this pack, instead of needing to find meteorites to complete the set, it is possible to craft the presses using some of the Sky Stone Dust sieved from Dust. Check the inscriber in JEI for recipes."]
+			description: ["Neste modpack, ao invés de precisar achar meteoros, é possível craftar as prensas usando um pouco de pó de sky stone. Olhe o inscriber no JEI para receitas."]
 			dependencies: ["68B0B3DAF1145191"]
 			id: "51236544BFEF487B"
 			tasks: [
@@ -197,9 +197,9 @@
 			y: -0.5d
 			subtitle: "Plug in"
 			description: [
-				"While the Inscriber and Charger will natively accept RF/FE, the vast majority of an ME network uses its own dedicated power system called AE."
+				"Enquanto o incriber aceitará naturalmente RF/FE, a maior parte da rede ME usa seu próprio tipo de energia chamado de AE."
 				""
-				"RF/FE can be converted into the native AE at a ratio of 2:1 RF:AE, either directly through an ME Controller, or through the &bEnergy Acceptor&f, which can instead be connected to any part of the network."
+				"RF/FE podem ser convertidos para AE diretamente de um ME Controller, ou usando um &bEnergy Acceptor&f, que pode ser conectado em qualquer parte da rede."
 			]
 			dependencies: ["68B0B3DAF1145191"]
 			id: "00611844AFD5C31E"
@@ -221,7 +221,7 @@
 				}
 			]
 		}
-		{
+		{ 
 			x: -5.0d
 			y: -0.5d
 			description: [
